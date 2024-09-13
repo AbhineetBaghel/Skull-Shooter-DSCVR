@@ -1,0 +1,15 @@
+{
+  "name": "Mama Shooter",
+  "short_name": "Mama Shooter",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "bc030a2b1d0a8827c7c1c5918207b5401feb4bd5f0bd319a5c8807ef0817feb3-New image.png",
+        "sizes": "512x512"
+      }]
+}
